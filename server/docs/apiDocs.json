@@ -1,0 +1,13 @@
+{
+    "/":"api docs",
+    "/signup":"admin signup",
+    "/signin":"admin signin",
+    "/signout":"admin signout",
+    "/employeeSignup":"employee signup",
+    "/employeeSignin":"employee signin",
+    "/employeeSignout":"employee signout",
+    "/admins":"get all admins",
+    "/admin/:adminId":"get/update/delete admin",
+    "/employees":"get all clients",
+    "/employee/:employeeId":"get employee"
+}
